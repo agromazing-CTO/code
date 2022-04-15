@@ -1,0 +1,22 @@
+Html:
+
+    -Linguagem universal dentro do navegador;
+        Nao e uma Linguagem de programacao, interpretador de codigo para o navegador;
+    - Web3.0;
+    - EXtremamente verboso, descritivo: script, link, h1, a, p, etc......
+    - <....><..../>
+
+    ex: 
+    <h1>Oi solitario</h1>
+    </>
+    Estrutura identada e hierarquica 
+
+Css: 
+    Cascata>
+    -hierarquica, identada;
+    -Verboso e descritivo;
+
+    ex:
+    h2 {
+        color: green;
+    }
